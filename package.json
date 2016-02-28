@@ -1,0 +1,21 @@
+{
+    "title": "Material theme",
+    "name": "material-theme",
+    "description": "Material theme for Brackets",
+    "version": "1.0",
+    "author": "Rogulski Rafał <rogul.rafal@gmail.com>",
+    "license": "MIT",
+    "engines": {
+        "brackets": ">=0.24.0"
+    },
+    "theme": {
+        "file": "main.less",
+        "dark": true
+    },
+    "i18n": [ "en"],
+    "package-i18n": {
+        "en": {
+            "description": "Material theme for Brackets inspired by atom-material-syntax"
+        }
+    }
+}
