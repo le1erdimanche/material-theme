@@ -1,5 +1,5 @@
 # material-theme
-Material theme for Brackets inspired by atom-material-syntax
+Material theme for Brackets inspired by <a href="https://github.com/DaanDD/material-syntax">material-syntax</a> for Atom
 
 #Screenshot
 
