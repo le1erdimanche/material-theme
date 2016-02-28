@@ -2,7 +2,7 @@
     "title": "Material theme",
     "name": "material-theme",
     "description": "Material theme for Brackets",
-    "version": "1.0",
+    "version": "1.0.0",
     "author": "Rogulski Rafał <rogul.rafal@gmail.com>",
     "license": "MIT",
     "engines": {
