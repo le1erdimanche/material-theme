@@ -12,10 +12,7 @@
         "file": "main.less",
         "dark": true
     },
-    "i18n": [ "en"],
     "package-i18n": {
-        "en": {
-            "description": "Material theme for Brackets inspired by atom-material-syntax"
-        }
+        "description": "Material theme for Brackets inspired by atom-material-syntax"
     }
 }
