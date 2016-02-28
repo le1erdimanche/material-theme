@@ -1,7 +1,7 @@
 {
     "title": "Material theme",
     "name": "material-theme",
-    "description": "Material theme for Brackets",
+    "description": "Material theme for Brackets inspired by material-syntax for Atom.io",
     "homepage": "https://github.com/Gamroth/material-theme",
     "version": "1.0.0",
     "author": "Rogulski Rafał <rogul.rafal@gmail.com>",
@@ -12,8 +12,5 @@
     "theme": {
         "file": "main.less",
         "dark": true
-    },
-    "package-i18n": {
-        "description": "Material theme for Brackets inspired by material-syntax for Atom.io"
     }
 }
