@@ -3,4 +3,4 @@ Material theme for Brackets inspired by (https://github.com/DaanDD/material-synt
 
 ## Screenshot
 
-(./less.PNG)
+![ScreenShot](./less.PNG)
